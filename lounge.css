@@ -72,3 +72,7 @@ div h2 {
   text-align: center;
   margin-top: 30px;
 }
+#elixirs {
+  width: 200px;
+  float: right;
+}
